@@ -29,7 +29,7 @@ then such loans can be reduced thereby cutting down the amount of credit loss.
 Identification of such applicants using Exploratory data analysis from the given attributes in the data is the primary objective of this case study.
 
 
-#Data Set Used:
+#Data Set Used: Loan.csv
 
 
 
