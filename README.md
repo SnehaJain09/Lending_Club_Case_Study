@@ -4,6 +4,7 @@
 
 ## Table of Contents
 * Project Information
+
 The project is a Exploratory Data Analysis project that uses the lending club data set to develop a basic understanding of 
 risk analytics in banking and financial services and understand how data is used to minimise the risk of losing money while lending to customers.
 This project is to help the company understand the driving factors (or driver variables) behind loan default, i.e. the variables which are strong indicators 
