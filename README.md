@@ -41,7 +41,7 @@ Identification of such applicants using Exploratory data analysis from the given
 
 ## Contact
 Created by:
-Sneha Bajaj
+Sneha Bajaj and 
 Varun Mohite
 
 
